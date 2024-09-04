@@ -27,3 +27,6 @@ Repository ini milik : dosjedong
 Repository ini menggunakan bahasa pemrograman Go, aplikasi command line untuk mendapatkan informasi cuaca saat ini. Ini memungkinkan pengguna melihat data cuaca langsung dari terminal menggunakan berbagai API cuaca.
 Aplikasi ini ringan dan ideal untuk pengguna yang sering bekerja di lingkungan terminal.
 Repository ini milik : genuinetools
+
+Trello
+https://trello.com/b/nma4bozQ/tugas2gagah-irlangsa-eka-yuanata
